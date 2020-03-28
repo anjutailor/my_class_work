@@ -38,8 +38,7 @@ p {
   vertical-align: top;
   font-size: 15px;
 }
-
 .contact {
   float: right;
-  width: 30%;
+  margin-right: 20px;
 }
